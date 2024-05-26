@@ -66,10 +66,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
-// VANITY/FUTURE:
-// - resize and/or glide button when pressed
-// - animate background
-// - animate actual die rolling (would take SO much time)
-// - track different players w/different colors
-// - make a variable (riggable) probability system based on light level and noise level (requires camera and microphone access)
